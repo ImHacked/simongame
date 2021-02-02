@@ -1,2 +1,2 @@
 # simongame
-A 2D web based game.
+A 2D Game Created with the help of HTLM, CSS and Javascript.
